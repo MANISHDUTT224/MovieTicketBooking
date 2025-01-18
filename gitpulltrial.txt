@@ -1,2 +1,0 @@
-hey i created this file to experiment git pull in detail.
-Imma modify this locally.
